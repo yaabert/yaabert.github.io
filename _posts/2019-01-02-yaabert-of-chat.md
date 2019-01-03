@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: " yaabert of chat "
 categories: misc
