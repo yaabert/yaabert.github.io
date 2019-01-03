@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "welcome to jekyll"
+title: "yaabert of chat "
 categories: misc
 author: "yaabert" 
 
