@@ -13,3 +13,5 @@
 [yaabert of chat](https://yaabert.github.io/misc/2019/01/02/yaabert-of-chat.html)
 
 [netty有感](https://yaabert.github.io/misc/2019/01/10/Netty%E6%9C%89%E6%84%9F.html)
+
+[数据结构整理](https://yaabert.github.io/misc/2019/01/14/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%95%B4%E7%90%86.html)
