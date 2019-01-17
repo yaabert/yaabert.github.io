@@ -13,6 +13,8 @@
 
 [TCP协议整理](https://yaabert.github.io/misc/2019/01/15/TCP%E5%8D%8F%E8%AE%AE%E6%95%B4%E7%90%86.html)
 
+[Netty学习笔记](https://yaabert.github.io/misc/2019/01/17/Netty%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html)
+
 #### 闲聊杂谈
 [yaabert of chat](https://yaabert.github.io/misc/2019/01/02/yaabert-of-chat.html)
 
