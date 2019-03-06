@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SpringBoot使用ssl证书配置https"
+title: "springboot使用ssl证书配置https"
 categories: misc
 author: "yaabert" 
 
